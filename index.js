@@ -27,7 +27,7 @@ function iconfontCSS(config) {
 		firstGlyph: 0xE001,
 		fixedCodepoints: false,
 		cssClass: 'icon',
-		version: Math.round(Date.now()) / 1000)
+		version: Math.round(Date.now() / 1000)
 	}, config);
 
 	// Enable default stylesheet generators
